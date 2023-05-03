@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "ABChanel";
+
+    src: local("ABChanel Corpo Regular"),
+        url("abchanelcorporegular.eot") format("embedded-opentype");
+
+    src: local("ABChanel Corpo Regular"),
+        url("abchanelcorporegular.ttf") format("TrueType");
+
+    src: local("ABChanel Corpo Regular"),
+        url("abchanelcorporegular.woff") format("woff");
+
+    src: local("ABChanel Corpo Regular"),
+        url("abchanelcorporegular.woff2") format("woff2");
+}
+
+* {
+    font-family: "ABChanel";
+}
